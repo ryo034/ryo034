@@ -14,6 +14,7 @@
 - JavaScript / TypeScript / Node
 - Vue / Nuxt.js
 - React / Next.js
+- AngularJS
 - HTML / CSS / SCSS
 
 ### CI/CD
@@ -21,6 +22,7 @@
 
 ### Database
 - MySQL
+- Firestore
 
 ## Tools :fire:
 ### Editor
@@ -32,8 +34,8 @@
 ## Others
 - Clean Architecture
 - DDD
-- TDD / E2E / [Gauge](https://gauge.org/) / [playwright](https://playwright.dev/) / Jest
-- Agile / scrum
+- TDD / E2E / [Gauge](https://gauge.org/) / [playwright](https://playwright.dev/) / Jest / cypress
+- Agile / scrum / XP
 - Docker
 - Github
 - gRPC
