@@ -10,23 +10,24 @@
 ## Programming Languages
 - Go
 - Dart / Flutter
-- PHP
+- Kotlin
 - JavaScript / TypeScript / Node
 - Vue / Nuxt.js
 - React / Next.js
-- AngularJS
+- Svelte
 - HTML / CSS / SCSS
 
 ### CI/CD
-- Github Actions / CircleCI
+- Github Actions
+- CircleCI
 
 ### Database
 - MySQL
-- Firestore
+- PostgreSQL
 
 ## Tools :fire:
 ### Editor
-- VSCode / Goland
+- VSCode / Goland / IntelliJ IDEA
 
 ### :art: Design
 - Miro / Figma
@@ -34,7 +35,7 @@
 ## Others
 - Clean Architecture
 - DDD
-- TDD / E2E / [Gauge](https://gauge.org/) / [playwright](https://playwright.dev/) / Jest / cypress
+- TDD / E2E / [Gauge](https://gauge.org/) / [playwright](https://playwright.dev/) / Jest
 - Agile / scrum / XP
 - Docker
 - Github
@@ -44,8 +45,8 @@
 ### :cloud: Cloud Service
 | <!-- -->    | <!-- -->    |
 |-|-|
-|GCP|★★★☆☆|
-|AWS|★★☆☆☆|
+|GCP|★★★★☆|
+|AWS|★★★☆☆|
 |Azure|☆☆☆☆☆|
 
 ### IaC
